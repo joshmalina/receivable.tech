@@ -1,0 +1,12 @@
+---
+layout: default
+img: numbers.jpg
+category: Services
+title: Improved debt scoring model
+description: |
+---
+  Stop using rules of thumb, and start letting your data speak for itself!
+
+  Our debt scoring algorithm uses state of the art
+  artificial intelligence techniques
+  to sort good debt from bad.
