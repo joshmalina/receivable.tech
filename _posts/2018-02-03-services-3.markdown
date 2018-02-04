@@ -1,0 +1,10 @@
+---
+layout: default
+img: beach.jpg
+category: Services
+title: For collections attorneys, debt buyers, or both
+description: |
+---
+Our debt sorting tool allows purchasers of debt to use alternative data to evaluate the
+quality of debt packages. Stop relying on FICO score alone, or your hunches, and let our tool give you insights
+before you make your next purchase.

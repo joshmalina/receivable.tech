@@ -1,0 +1,9 @@
+---
+layout: default
+img: time.jpg
+category: Services
+title: Save your firm and your client time and money
+description: |
+---
+Some firms break even in less than 18% of all files. Stop suing accounts where there is no money to be made. Get to the most recoverable files
+faster, and increase your average speed of recovery.
