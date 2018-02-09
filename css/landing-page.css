@@ -93,6 +93,13 @@ h6 {
     background-color: #f8f8f8;
 }
 
+.contactform-section {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+
+   background-color: shale;
+}
+
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
