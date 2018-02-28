@@ -10,3 +10,5 @@ description: |
   Our debt scoring algorithm uses state of the art
   artificial intelligence techniques
   to sort good debt from bad.
+
+  Not convinced? You will be when you check out our [marketing materials](https://docs.google.com/presentation/d/1TaLQ50iFwkVuLtgnwBGzgU45HfRJHz98Rsv6pKoNLYw/edit?usp=sharing).
